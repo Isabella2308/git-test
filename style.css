@@ -6,6 +6,14 @@ h1 {
   text-align: center;
   font-size: 10rem;
 }
+h2 {
+  color: pink;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+
+  background-color: rgb(16, 110, 110);
+  text-align: center;
+  font-size: 10rem;
+}
 
 body {
   background-color: lightskyblue;
